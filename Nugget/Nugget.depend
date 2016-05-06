@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1462477665 source:c:\users\ali abdulla\desktop\cpp\nugget\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+	<math.h>
+	"Move.h"
+	"Calculation.h"
+	"EuclideanAlgorithm.h"
+
+1462339482 c:\users\ali abdulla\desktop\cpp\nugget\move.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1462406059 c:\users\ali abdulla\desktop\cpp\nugget\calculation.h
+	<vector>
+	<iostream>
+	"EuclideanAlgorithm.h"
+
+1462339889 source:c:\users\ali abdulla\desktop\cpp\nugget\move.cpp
+	"Move.h"
+
+1462408249 source:c:\users\ali abdulla\desktop\cpp\nugget\calculation.cpp
+	"Calculation.h"
+	<math.h>
+
+1462405622 source:c:\users\ali abdulla\desktop\cpp\nugget\euclideanalgorithm.cpp
+	"EuclideanAlgorithm.h"
+
+1462405622 c:\users\ali abdulla\desktop\cpp\nugget\euclideanalgorithm.h
+
